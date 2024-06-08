@@ -1,4 +1,4 @@
-# C-Brain-Tumor-Based-Recognise-Patterns
+# Brain-Tumor-Based-Recognise-Patterns
 The aim of this project was to recognize patterns in brain tumor data by applying both classification and regression models. The project involved several key steps: data cleaning, data visualization, data transformation, data normalization, and the application of machine learning models.
 
 Data Preprocessing
